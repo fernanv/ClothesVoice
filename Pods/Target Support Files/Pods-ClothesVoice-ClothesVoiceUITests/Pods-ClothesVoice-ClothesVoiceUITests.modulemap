@@ -1,0 +1,6 @@
+framework module Pods_ClothesVoice_ClothesVoiceUITests {
+  umbrella header "Pods-ClothesVoice-ClothesVoiceUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

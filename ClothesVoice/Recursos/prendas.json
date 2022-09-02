@@ -1,0 +1,131 @@
+[
+    {
+        "id": 1,
+        "nombre": "Camisa SCARS en rojo",
+        "precio": 20,
+        "color": "Rojo",
+        "talla": ["XS","S","M","L","XL","XXL"],
+        "categoria_sexo": "Unisex",
+        "categoria_ropa": "Camisas",
+        "nombresFotos": ["sudadera-gris","modelo1","modelo2","modelo3"],
+        "enFavoritos": false,
+        "enCesta": true
+    },
+    
+    {
+        "id": 2,
+        "nombre": "Camiseta SCARS en verde",
+        "precio": 10,
+        "color": "Verde",
+        "talla": ["XS","S","M","L","XL","XXL"],
+        "categoria_sexo": "Unisex",
+        "categoria_ropa": "Camisetas",
+        "nombresFotos": ["sudadera-gris","modelo1","modelo2","modelo3"],
+        "enFavoritos": true,
+        "enCesta": false
+    },
+    
+    {
+        "id": 3,
+        "nombre": "Sudadera SCARS en azul",
+        "precio": 40,
+        "color": "Azul",
+        "talla": ["XS","S","M","L","XL","XXL"],
+        "categoria_sexo": "Unisex",
+        "categoria_ropa": "Sudaderas",
+        "nombresFotos": ["sudadera-gris","modelo1","modelo2","modelo3"],
+        "enFavoritos": false,
+        "enCesta": false
+    },
+    
+    {
+        "id": 4,
+        "nombre": "Sudadera SCARS en rosa",
+        "precio": 40,
+        "color": "Rosa",
+        "talla": ["XS","S","M","L","XL","XXL"],
+        "categoria_sexo": "Unisex",
+        "categoria_ropa": "Sudaderas",
+        "nombresFotos": ["sudadera-gris","modelo1","modelo2","modelo3"],
+        "enFavoritos": false,
+        "enCesta": false
+    },
+    
+    {
+        "id": 5,
+        "nombre": "Sudadera SCARS en verde",
+        "precio": 40,
+        "color": "Verde",
+        "talla": ["XS","S","M","L","XL","XXL"],
+        "categoria_sexo": "Unisex",
+        "categoria_ropa": "Sudaderas",
+        "nombresFotos": ["sudadera-gris","modelo1","modelo2","modelo3"],
+        "enFavoritos": false,
+        "enCesta": false
+    },
+    
+    {
+        "id": 6,
+        "nombre": "Sudadera SCARS en gris",
+        "precio": 40,
+        "color": "Gris",
+        "talla": ["XS","S","M","L","XL","XXL"],
+        "categoria_sexo": "Unisex",
+        "categoria_ropa": "Sudaderas",
+        "nombresFotos": ["sudadera-gris","modelo1","modelo2","modelo3"],
+        "enFavoritos": true,
+        "enCesta": false
+    },
+    
+    {
+        "id": 7,
+        "nombre": "Sudadera SCARS en gris",
+        "precio": 40,
+        "color": "Gris",
+        "talla": ["XS","S","M","L","XL","XXL"],
+        "categoria_sexo": "Unisex",
+        "categoria_ropa": "Sudaderas",
+        "nombresFotos": ["sudadera-gris","modelo1","modelo2","modelo3"],
+        "enFavoritos": true,
+        "enCesta": false
+    },
+    
+    {
+        "id": 8,
+        "nombre": "Sudadera SCARS en gris",
+        "precio": 40,
+        "color": "Gris",
+        "talla": ["XS","S","M","L","XL","XXL"],
+        "categoria_sexo": "Unisex",
+        "categoria_ropa": "Sudaderas",
+        "nombresFotos": ["sudadera-gris","modelo1","modelo2","modelo3"],
+        "enFavoritos": false,
+        "enCesta": false
+    },
+    
+    {
+        "id": 9,
+        "nombre": "Sudadera SCARS en gris",
+        "precio": 40,
+        "color": "Gris",
+        "talla": ["XS","S","M","L","XL","XXL"],
+        "categoria_sexo": "Unisex",
+        "categoria_ropa": "Sudaderas",
+        "nombresFotos": ["sudadera-gris","modelo1","modelo2","modelo3"],
+        "enFavoritos": false,
+        "enCesta": false
+    },
+    
+    {
+        "id": 10,
+        "nombre": "Sudadera SCARS en gris",
+        "precio": 40,
+        "color": "Gris",
+        "talla": ["XS","S","M","L","XL","XXL"],
+        "categoria_sexo": "Unisex",
+        "categoria_ropa": "Sudaderas",
+        "nombresFotos": ["sudadera-gris","modelo1","modelo2","modelo3"],
+        "enFavoritos": false,
+        "enCesta": false
+    }
+]

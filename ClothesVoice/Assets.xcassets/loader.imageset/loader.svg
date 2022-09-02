@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33">
+  <g id="Icon_feather-loader" data-name="Icon feather-loader" transform="translate(-1.5 -1.5)">
+    <path id="Trazado_1" data-name="Trazado 1" d="M18,3V9" fill="none" stroke="#faf5f5" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Trazado_2" data-name="Trazado 2" d="M18,27v6" fill="none" stroke="#faf5f5" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Trazado_3" data-name="Trazado 3" d="M7.395,7.395,11.64,11.64" fill="none" stroke="#faf5f5" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Trazado_4" data-name="Trazado 4" d="M24.36,24.36,28.6,28.6" fill="none" stroke="#faf5f5" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Trazado_5" data-name="Trazado 5" d="M3,18H9" fill="none" stroke="#faf5f5" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Trazado_6" data-name="Trazado 6" d="M27,18h6" fill="none" stroke="#faf5f5" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Trazado_7" data-name="Trazado 7" d="M7.395,28.6,11.64,24.36" fill="none" stroke="#faf5f5" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Trazado_8" data-name="Trazado 8" d="M24.36,11.64,28.6,7.395" fill="none" stroke="#faf5f5" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  </g>
+</svg>
